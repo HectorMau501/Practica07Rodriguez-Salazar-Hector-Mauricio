@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itmPedido"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/pedido" />
+    <item
+        android:id="@+id/itmProductos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/productos" />
+    <item
+        android:id="@+id/itmCompras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/compras" />
+    <item
+        android:id="@+id/itmNosotros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/nosostros" />
+    <item
+        android:id="@+id/itmCerrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/cerrar" />
+</menu>

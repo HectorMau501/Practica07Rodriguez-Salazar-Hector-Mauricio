@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Practica07Rodriguez-Salazar-Hector-Mauricio</string>
+
+<!--    ingresar-->
+    <string name="titulo">Negocio de Disfraces</string>
+    <string name="usuario">Correo</string>
+    <string name="contrasena">Contraseña</string>
+
+<!--    menu-->
+    <string name="pedido">Pedido</string>
+    <string name="productos">Productos</string>
+    <string name="compras">Mis Compras</string>
+    <string name="nosostros">Nosotros</string>
+    <string name="cerrar">Cerrar sesión</string>
+
+<!--    Pedidos-->
+    <string name="pedidos">Pedidos</string>
+    <string name="nombre">Nombre</string>
+    <string name="domicilio">Domicilio</string>
+    <string-array name="producto">
+        <item>Máscara</item>
+        <item>Traje</item>
+        <item>Guantes</item>
+        <item>Gafas</item>
+        <item>Capa</item>
+    </string-array>
+    <string-array name="talla">
+        <item>Chico</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </string-array>
+    <string name="contacto">Teléfono de Contacto</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+
+
+</resources>
